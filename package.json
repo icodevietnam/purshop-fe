@@ -5,7 +5,7 @@
   "main": "Gruntfile.js",
   "repository": {
     "type": "git",
-    "url": "git@bitbucket.org:icodeactive/demo-fe.git"
+    "url": "https://github.com/icodevietnam/purshop-fe.git"
   },
   "license": "MIT",
   "engines": {
@@ -47,6 +47,6 @@
     "time-grunt": "^1.2.1"
   },
   "keywords": [
-    "Icoding Training"
+    "Icoding Active"
   ]
 }
